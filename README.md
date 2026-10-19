@@ -25,8 +25,4 @@ The `homelab-harbor.svg` wallpaper is original. Homelab Harbor OS is an independ
 See [FEATURES.md](FEATURES.md) for three local tools included for home server administration.
 
 
-The installer also includes three purpose-specific applications: **GNOME Builder, org.kicad.KiCad, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GNOME Builder, KiCad, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **DB Browser for SQLite, GNOME Builder, KeePassXC**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.

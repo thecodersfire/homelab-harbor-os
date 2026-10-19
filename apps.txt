@@ -4,7 +4,19 @@ org.wireshark.Wireshark
 org.mozilla.firefox
 com.opera.opera-gx
 
-# Three additional preinstalled purpose-specific applications
+# Three previously added purpose-specific applications
 org.sqlitebrowser.sqlitebrowser
 org.gnome.Builder
 org.keepassxc.KeePassXC
+
+# Ten additional preinstalled purpose-specific applications
+org.gnome.Maps
+org.gnome.Weather
+org.gnome.Calendar
+org.gnome.clocks
+org.libreoffice.LibreOffice
+org.gnome.Calculator
+org.gnome.Contacts
+org.gnome.SimpleScan
+org.gnome.Papers
+org.gnome.TextEditor
