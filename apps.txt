@@ -20,3 +20,20 @@ org.gnome.Contacts
 org.gnome.SimpleScan
 org.gnome.Papers
 org.gnome.TextEditor
+
+# Fifteen additional preinstalled purpose-specific applications
+io.dbeaver.DBeaverCommunity
+org.gnome.gitg
+com.github.xournalpp.xournalpp
+org.jabref.jabref
+org.mozilla.Thunderbird
+org.gnome.Evolution
+org.qelectrotech.QElectroTech
+org.librecad.librecad
+org.geogebra.GeoGebra
+org.stellarium.Stellarium
+com.orama_interactive.Pixelorama
+org.synfig.SynfigStudio
+org.thonny.Thonny
+org.godotengine.Godot
+org.openscad.OpenSCAD
