@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/homelab-harbor-os-workspace features/homelab-harbor-os-plan features/homelab-harbor-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for home server administration:
+
+1. **DB Browser for SQLite** — org.sqlitebrowser.sqlitebrowser
+2. **GNOME Builder** — org.gnome.Builder
+3. **KeePassXC** — org.keepassxc.KeePassXC
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
